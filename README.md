@@ -34,3 +34,6 @@ A minimalistic WPF-based pixel art editor with frame-by-frame animation support.
 - .NET 8.0 (WPF)
 - MVVM-inspired architecture
 - Built-in WPF GIF encoder (GifBitmapEncoder)
+
+  ![image](https://github.com/user-attachments/assets/842161b9-8dd3-4c70-964c-e00e0ee66aa0)
+
